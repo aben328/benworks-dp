@@ -6,4 +6,7 @@
   <packaging>pom</packaging>
   <name>benworks-dp</name>
   <description>Design Patterns Example</description>
+  <modules>
+  	<module>benworks-dp-cor</module>
+  </modules>
 </project>
