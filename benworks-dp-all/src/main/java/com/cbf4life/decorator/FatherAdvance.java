@@ -1,4 +1,4 @@
-package com.cbf4life;
+package com.cbf4life.decorator;
 
 public class FatherAdvance {
 	public static void main(String[] args) {

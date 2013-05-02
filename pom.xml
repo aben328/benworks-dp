@@ -9,7 +9,6 @@
 	<description>Design Patterns Example</description>
 	<modules>
 		<module>benworks-dp-cor</module>
-		<module>benworks-dp-decorator</module>
 		<module>benworks-dp-all</module>
 	</modules>
 

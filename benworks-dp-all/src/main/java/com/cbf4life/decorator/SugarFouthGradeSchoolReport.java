@@ -1,4 +1,4 @@
-package com.cbf4life;
+package com.cbf4life.decorator;
 
 /**
  * @author cbf4Life cbf4life@126.com I'm glad to share my knowledge with you all. 对这个成绩单进行美化 Sugar这个词太好了，名词是糖的意思，动词就是美化

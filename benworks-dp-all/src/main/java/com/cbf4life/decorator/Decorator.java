@@ -1,4 +1,4 @@
-package com.cbf4life;
+package com.cbf4life.decorator;
 
 /**
  * Decorator 抽象类的目的很简单，就是要让子类来对封装 SchoolReport 的子类，怎么封装？重写 report 方法！先看 HighScoreDecorator 实现类：

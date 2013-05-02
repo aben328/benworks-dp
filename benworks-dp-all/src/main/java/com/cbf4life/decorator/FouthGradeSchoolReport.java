@@ -1,4 +1,4 @@
-package com.cbf4life;
+package com.cbf4life.decorator;
 
 /**
  * @author cbf4Life cbf4life@126.com I'm glad to share my knowledge with you all. 四年级的成绩单，这个是我们学校第一次实施，以前没有干过 这种“缺德”事。

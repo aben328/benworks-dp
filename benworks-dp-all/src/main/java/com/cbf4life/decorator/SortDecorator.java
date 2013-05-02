@@ -1,4 +1,4 @@
-package com.cbf4life;
+package com.cbf4life.decorator;
 
 /**
  * @author cbf4Life cbf4life@126.com I'm glad to share my knowledge with you all. 学校排名的情况汇报
