@@ -10,6 +10,7 @@
 	<modules>
 		<module>benworks-dp-cor</module>
 		<module>benworks-dp-all</module>
+		<module>benworks-dp-parallel</module>
 	</modules>
 
 
