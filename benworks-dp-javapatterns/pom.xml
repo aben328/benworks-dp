@@ -1,0 +1,31 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>benworks-dp</groupId>
+		<artifactId>benworks-dp</artifactId>
+		<version>1.0</version>
+	</parent>
+	<artifactId>benworks-dp-javapatterns</artifactId>
+	<name>benworks-dp-javapatterns</name>
+	<description>这些源代码及其他文件来自阎宏博士的《Java与模式》一书，此书由中国电子工业出版社于2002年10月1日出版，书号7-5053-8000-1。</description>
+
+	<dependencies>
+		<!-- <dependency> -->
+		<!-- <groupId>org.apache.tomcat</groupId> -->
+		<!-- <artifactId>servlet-api</artifactId> -->
+		<!-- <version>6.0.16</version> -->
+		<!-- </dependency> -->
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>javax.servlet-api</artifactId>
+			<version>3.0.1</version>
+		</dependency>
+		<dependency>
+			<groupId>javax.mail</groupId>
+			<artifactId>mail</artifactId>
+			<version>1.4.1</version>
+		</dependency>
+	</dependencies>
+
+</project>
